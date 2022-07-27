@@ -1,1 +1,1 @@
-drop;
+delete it;
