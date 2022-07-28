@@ -1,1 +1,1 @@
-delete it;
+delete it
